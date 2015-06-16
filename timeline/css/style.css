@@ -1,0 +1,46 @@
+/* Table of Content
+==================================================
+	#Header
+	#Slider Wrapper
+	#Media Holder
+	#Content
+	#Gallery
+	#Sidebar
+	#Widgets
+	#Footer */
+
+
+/* #Header
+================================================== */
+.navbar-default {
+	border-color: #176096;
+	border-radius: 0px;
+	background: url("../assets/images/header_bg.png") no-repeat scroll 10% 10% #09234E;
+}
+.navbar-default .container {
+	border-bottom: 0px solid #EBEBEB;
+	background: url("../assets/images/header_overlay.png") no-repeat scroll center top transparent;
+}
+.navbar-default .container * {
+	color:#FFF;
+}
+
+
+.list-group .list-group-item {
+  padding: 10px 15px;
+  border: none;
+  margin-bottom: 0;
+  border-bottom: 1px solid #ddd;
+}
+
+/* #Footer
+================================================== */
+.footer {
+    background-color: #176096;
+    border-color: #176096;
+    margin: 1em 0px;
+    height: 16px;
+}
+#copyright {
+    text-align: center;
+}
